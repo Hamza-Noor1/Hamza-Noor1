@@ -1,6 +1,3 @@
-
-
-<!--
 #👋 Hi, I'm Hamza!
 
 ---
@@ -35,4 +32,3 @@ Thanks for visiting my profile! 😊 Feel free to connect with me or check back 
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamza-noor1&theme=prussian&show_icons=true)
 
--->
