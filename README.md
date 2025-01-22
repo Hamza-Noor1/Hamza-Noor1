@@ -30,5 +30,5 @@
 
 Thanks for visiting my profile! 😊 Feel free to connect with me or check back later as I add more projects and grow my skills.
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamza-noor1&theme=prussian&show_icons=true)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-noor1&theme=prussian&show_icons=true)
 
