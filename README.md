@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Hamza!
 
-## 💫 About Me
 - 🎓 Currently studying Computer Programming & Analysis @ Seneca
 - 💻 Developing skills in JS, C++, React and SQL
 - 🤝 Looking to collaborate on web apps and developing software solutions
