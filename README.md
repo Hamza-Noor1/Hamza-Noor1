@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Hamza!
 
----
-
 ## 💫 About Me
 - 🎓 Currently studying Computer Programming & Analysis @ Seneca
 - 💻 Developing skills in JS, C++, React and SQL
 - 🤝 Looking to collaborate on web apps and developing software solutions
 - 🔍 Actively seeking a summer co-op or internship opportunity where I can contribute and grow.
 
----
 ## 🧰 Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
